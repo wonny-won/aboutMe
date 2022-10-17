@@ -11,7 +11,7 @@
 
 ---
 ### 🖍 Study Blog 
-tistory : <a href="https://dev-raccoon-man.tistory.com/m/">![Tistory Badge](https://img.shields.io/badge/📘%20Study%20Blog-eb531f?style=flat&logoColor=white)](https://dev-raccoon-man.tistory.com/m/)</a>
+tistory : <a href="https://dev-raccoon-man.tistory.com/m/">![Tistory Badge](https://img.shields.io/badge/📘%20Study%20Blog-eb531f?style=flat&logoColor=white)</a>
 
 ---
 ### 📌 Pined Repository
