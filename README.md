@@ -1,11 +1,10 @@
+<div align="center">
 # 🛠 Hyewon Jeong
 ### _junior frontend developer_
 개발에 진심인 작은 개발자 정혜원입니다.
 
 ---
 ## 📚 Stack
-<div align="center">
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonny-won&layout=compact)](https://github.com/wonny-won/github-readme-stats)
 
   <div align="right">
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   </div>
-</div>
+
 ---
 ### 🖍 Study Blog 
 tistory : <a href="https://dev-raccoon-man.tistory.com/m/">![Tistory Badge](https://img.shields.io/badge/📘%20Study%20Blog-eb531f?style=flat&logoColor=white)</a>
@@ -29,3 +28,4 @@ tistory : <a href="https://dev-raccoon-man.tistory.com/m/">![Tistory Badge](http
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonny-won)](https://github.com/wonny-won/github-readme-stats)
 
+</div>
