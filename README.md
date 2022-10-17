@@ -3,7 +3,7 @@
 **개발에 진심인 너굴맨입니다.**
 - 💻  I'm still studying frontend 
 - 🏢  I'm currently working on **{코드캠프}**
-- 👍🏻  **사이드 프로젝트 제의 좋습니다!**
+- 👍🏻  **contack me...**
   - kakaoId : jaake97
 ---
 ## 📚 stack
