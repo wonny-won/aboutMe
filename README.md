@@ -1,5 +1,5 @@
 # 🛠 Hyewon Jeong
-<div color="brown"> ### _junior frontend developer_</div>
+<div color="brown"> ### _junior frontend developer_
 **개발에 진심인 너굴맨입니다.**
 - 💻  I'm still studying frontend 
 - 🏢  I'm currently working on **{코드캠프}**
