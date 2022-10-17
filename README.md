@@ -1,4 +1,3 @@
-<div align="center">
 # 🛠 Hyewon Jeong
 ### _junior frontend developer_
 개발에 진심인 작은 개발자 정혜원입니다.
