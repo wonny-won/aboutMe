@@ -1,6 +1,10 @@
 # 🛠 Hyewon Jeong
 ### _junior frontend developer_
 개발에 진심인 작은 개발자 정혜원입니다.
+- 💻 I'm still studying frontend 
+- 🏢 I'm currently working on {코드캠프}
+- 👍🏻 사이드 프로젝트 제의 좋습니다!
+  - kakaoId : jaake97
 ---
 ## 📚 stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonny-won&layout=compact)](https://github.com/wonny-won/github-readme-stats)
